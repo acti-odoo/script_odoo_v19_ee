@@ -79,7 +79,7 @@ fi
 if [[ $OS_NAME == "jammy" || $OS_NAME == "noble" ]];
 
 then
-	wk64="https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6.1-2/wkhtmltox_0.12.6.1-2.jammy_${ARCH}.deb"
+	wk64="https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6.1-3/wkhtmltox_0.12.6.1-3.jammy_${ARCH}.deb"
 
 fi
 
